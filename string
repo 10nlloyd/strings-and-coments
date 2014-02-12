@@ -1,0 +1,4 @@
+start = "4 + 4 ="
+number = 8
+print(start,number)
+print("four plus four = ",number)
